@@ -29,3 +29,8 @@
     top: 75px;
   }
 }
+
+@media only screen and (max-width: 800px) {
+  #navbar {
+    font-size: 0.9em
+  }
