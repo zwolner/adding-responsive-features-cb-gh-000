@@ -41,7 +41,7 @@
   }
 }
 
-@media only screen and (max-width: 7500px) {
+@media only screen and (max-width: 750px) {
   .col-1, .col-2, .col-3 {
     width: 100%;
     margin-left: 0;
