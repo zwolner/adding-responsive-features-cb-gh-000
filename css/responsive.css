@@ -40,3 +40,11 @@
     font-size: 0.9em
   }
 }
+
+@media only screen and (max-width: 7500px) {
+  .col-1, .col-2, .col-3 {
+    width: 100%;
+    margin-left: 0;
+    float: none;
+  }
+}
